@@ -63,11 +63,17 @@ Ruhsal desteğe erişim her zaman kolay, hızlı veya uygun fiyatlı değildir. 
 
 ## 📸 Ekran Görüntüleri
 
-> Ekran görüntülerini `docs/screenshots/` klasörüne aşağıdaki adlarla eklediğinde tablo otomatik dolar.
+<div align="center">
 
-| Eşlikçi | Şimdi | Keşfet | Ben |
-|:---:|:---:|:---:|:---:|
-| ![Eşlikçi](docs/screenshots/01-eslikci.png) | ![Şimdi](docs/screenshots/02-simdi.png) | ![Keşfet](docs/screenshots/03-kesfet.png) | ![Ben](docs/screenshots/04-ben.png) |
+| Hoş Geldin | Eşlikçi — akıllı günlük | Şimdi — ruh hâli |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/00-karsilama.jpg" width="230"/> | <img src="docs/screenshots/01-eslikci.jpg" width="230"/> | <img src="docs/screenshots/02-simdi.jpg" width="230"/> |
+
+| Keşfet — öz-değerlendirme | Ben — profil & istatistik | İçerik & okumalar |
+|:---:|:---:|:---:|
+| <img src="docs/screenshots/03-kesfet.jpg" width="230"/> | <img src="docs/screenshots/04-ben.jpg" width="230"/> | <img src="docs/screenshots/05-okuma.jpg" width="230"/> |
+
+</div>
 
 ---
 
