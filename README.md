@@ -203,7 +203,7 @@ Bu proje, 2025–2026 eğitim-öğretim yılı dönem sonu projesi olarak React 
 
 <div align="center">
 
-🌿 *"Gönlüne mukayyed ol, zîrâ dermân-ı her derde evvelâ nefsindir."*
+🌿 *"Rûhuna merhem ol; her şeb'in ardında bir seher vardır."*
 
 </div>
 
