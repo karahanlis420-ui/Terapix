@@ -162,20 +162,48 @@ EXPO_PUBLIC_FIREBASE_APP_ID=
 
 ## 🗺️ Yol Haritası
 
+### ✅ Tamamlanan
+- [x] Cihaz üzerinde çalışan duygu eşleştirme motoru (10 kategori)
+- [x] Sesli günlük kaydı (expo-av)
+- [x] Açık / Koyu / Sistem tema desteği
+- [x] 3 adımlı onboarding akışı (dil + tema + giriş)
+- [x] 90 günlük GitHub tarzı aktivite ısı haritası
+- [x] Öz-değerlendirme testleri ve kanıta dayalı okumalar
+- [x] Firebase opsiyonel senkronizasyon (graceful degradation)
+- [x] Kriz ifadesi önceliklendirme ve güvenlik yönlendirmesi
+
+### 🔜 Planlanan
 - [ ] Topluluk akışı (herkese açık paylaşımlar)
 - [ ] Hatırlatıcı bildirimleri (expo-notifications)
 - [ ] Çoklu dil desteğinin tamamlanması (TR/EN)
 - [ ] Ses kayıtlarının oynatılması ve bulut yedeği
+- [ ] EAS Build ile mağaza yayını (App Store / Google Play)
 
 ---
 
 ## ⚠️ Sorumluluk Reddi
 
-Terapix tıbbi bir cihaz veya profesyonel terapi/teşhis aracı **değildir** ve profesyonel yardımın yerini tutmaz. Zor bir dönemden geçiyorsan bir uzmana başvur. **Acil bir durumda 112'yi ara.**
+Terapix tıbbi bir cihaz veya profesyonel terapi/teşhis aracı **değildir** ve profesyonel yardımın yerini tutmaz. Zor bir dönemden geçiyorsan bir uzmana başvur.
+
+> 🆘 **Acil bir durumda 112'yi ara.**
+> 📞 **Sağlık Bakanlığı ALO 182** · İntihar Önleme Hattı: **182**
 
 ---
 
 ## 👨‍💻 Geliştirici
 
-**[Adını & bölümünü buraya yaz]**
-Bu proje bir mobil uygulama geliştirme dersi kapsamında hazırlanmıştır.
+**Süleyman Çetin** · GitHub: [@karahanlis420-ui](https://github.com/karahanlis420-ui)
+
+📚 **Kütahya Dumlupınar Üniversitesi** · Bilgisayar Programcılığı
+📖 **Mobil Uygulama Geliştirme** dersi · Öğr. Gör. **Erkan Veziroğlu**
+
+Bu proje, 2025–2026 eğitim-öğretim yılı dönem sonu projesi olarak React Native (Expo SDK 54) ile geliştirilmiştir.
+
+---
+
+<div align="center">
+
+🌿 *Kendine iyi bak.*
+
+</div>
+
